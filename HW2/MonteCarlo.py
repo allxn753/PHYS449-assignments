@@ -67,14 +67,14 @@ def run_mcmc(L, n_samples, temperature, J=1.0):
 
 
 if __name__ == "__main__":
-    L = 10
+    L = 16
     N = L * L
-    n_sweeps = 2000
+    n_sweeps = 200
     J = 1.0
 
     plt.style.use("default")
 
-    temperatures = np.linspace(1.0, 4.0, 30)
+    temperatures = np.random.uniform(1.0, 1.5, size=1000).tolist()
     avg_energies = []
 
     for T in tqdm(temperatures):
@@ -97,6 +97,6 @@ if __name__ == "__main__":
     plt.axvline(x=Tc, color="gray", linestyle="--", label=f"$T_c \\approx {Tc:.3f}$")
 
     plt.xlabel("T")
-    plt.ylabel(r"$\expval{E}/N$")
+    plt.ylabel(r"$\langle E \rangle / N$")
     plt.legend()
     plt.show()

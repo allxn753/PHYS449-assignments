@@ -97,6 +97,6 @@ if __name__ == "__main__":
     plt.axvline(x=Tc, color="gray", linestyle="--", label=f"$T_c \\approx {Tc:.3f}$")
 
     plt.xlabel("T")
-    plt.ylabel(r"$\expval{E}/N$")
+    plt.ylabel(r"$\langle E \rangle/N$")
     plt.legend()
     plt.show()
