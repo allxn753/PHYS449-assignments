@@ -1,0 +1,34 @@
+Connect   -> Port:A-5, CurrentMax:16 Timestamp:1758813819 *Warnings: Low current detected!
+Disconnect-> Port:A-5, CurrentMax:16 Timestamp:1758813819 *Warnings: Low current detected!
+Connect   -> Port:A-5, CurrentMax:16 Timestamp:1758814032 *Warnings: Low current detected!
+Disconnect-> Port:A-5, CurrentMax:16 Timestamp:1758814032 *Warnings: Low current detected!
+Connect   -> Port:A-5, CurrentMax:75 Timestamp:1758814472
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758814472
+Connect   -> Port:A-5, CurrentMax:58 Timestamp:1758815005 *Warnings: Low current detected!
+Disconnect-> Port:A-5, CurrentMax:58 Timestamp:1758815005 *Warnings: Low current detected!
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758815280
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758815280
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758815691
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758815691
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758815785
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758815786
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758815894
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758815894
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758815982
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758815982
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758816023
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758816023
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758816164
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758816164
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758816202
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758816202
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758816267
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758816267
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758816713
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758816713
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758816905
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758816905
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758817011
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758817011
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758817047
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758817047
