@@ -32,3 +32,33 @@ Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758817011
 Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758817011
 Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758817047
 Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758817047
+Connect   -> Port:A-1, CurrentMax:75 Timestamp:1758819046
+Disconnect-> Port:A-1, CurrentMax:76 Timestamp:1758819046
+Connect   -> Port:A-1, CurrentMax:75 Timestamp:1758819211
+Disconnect-> Port:A-1, CurrentMax:76 Timestamp:1758819377
+Connect   -> Port:A-2, CurrentMax:75 Timestamp:1758819470
+Disconnect-> Port:A-2, CurrentMax:76 Timestamp:1758819830
+Connect   -> Port:A-4, CurrentMax:76 Timestamp:1758820225
+Disconnect-> Port:A-4, CurrentMax:75 Timestamp:1758823182
+Connect   -> Port:A-3, CurrentMax:76 Timestamp:1758823295
+Disconnect-> Port:A-3, CurrentMax:76 Timestamp:1758823338
+Connect   -> Port:A-5, CurrentMax:76 Timestamp:1758823417
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758823445
+Connect   -> Port:A-6, CurrentMax:76 Timestamp:1758823499
+Disconnect-> Port:A-6, CurrentMax:75 Timestamp:1758823534
+Connect   -> Port:A-1, CurrentMax:75 Timestamp:1758823567
+Disconnect-> Port:A-1, CurrentMax:76 Timestamp:1758823594
+Connect   -> Port:A-6, CurrentMax:76 Timestamp:1758823610
+Disconnect-> Port:A-6, CurrentMax:75 Timestamp:1758823713
+Connect   -> Port:A-1, CurrentMax:75 Timestamp:1758823883
+Disconnect-> Port:A-1, CurrentMax:76 Timestamp:1758824007
+Connect   -> Port:A-6, CurrentMax:76 Timestamp:1758824026
+Connect   -> Port:A-1, CurrentMax:75 Timestamp:1758824059
+Disconnect-> Port:A-1, CurrentMax:76 Timestamp:1758824120
+Disconnect-> Port:A-6, CurrentMax:75 Timestamp:1758824120
+Disconnect-> Port:A-1, CurrentMax:76 Timestamp:1758824473
+Disconnect-> Port:A-2, CurrentMax:78 Timestamp:1758824473
+Disconnect-> Port:A-3, CurrentMax:76 Timestamp:1758824473
+Disconnect-> Port:A-4, CurrentMax:76 Timestamp:1758824473
+Disconnect-> Port:A-5, CurrentMax:75 Timestamp:1758824473
+Disconnect-> Port:A-6, CurrentMax:76 Timestamp:1758824473
